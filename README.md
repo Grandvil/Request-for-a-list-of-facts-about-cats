@@ -1,1 +1,3 @@
-# Request-for-a-list-of-facts-about-cats
+# Запрос на получение списка фактов о кошках
+
+По адресу https://raw.githubusercontent.com/netology-code/jd-homeworks/master/http/task1/cats находится список фактов о кошках. В задаче реализован запрос к этому ресурсу, и отфильтрованы факты, за которые никто не проголосовал (поле upvotes).
